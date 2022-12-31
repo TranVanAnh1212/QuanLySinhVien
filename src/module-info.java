@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+/**
+ * @author TRAN VAN ANH
+ *
+ */
+module QLSV_ngay_26_11_2022 {
+	
+//		CHƯƠNG TRÌNH NHỎ QUẢN LÝ SINH VIÊN
+//		KHỞI CÔNG XÂY DỰNG CHƯƠNG TRÌNH VÀO NGÀY 26/11/2022
+//		ĐƯỢC XÂY DỰNG BỞI - TRẦN VĂN ANH
+//		SỬ DỤNG NGÔN NGỮ JAVA
+	
+//		SMALL STUDENT MANAGEMENT PROGRAM
+//		BREAKING CONSTRUCTION OF THE PROGRAM ON 11/26/2022
+//		BUILDED BY - TRAN VAN ANH
+//		USING JAVA LANGUAGE
+	
+	requires java.desktop;
+}
